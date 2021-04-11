@@ -1,0 +1,39 @@
+{
+  "name": "kromcode",
+  "version": "25.0.5",
+  "description": "kromcode",
+  "main": "spallers.js",
+  "scripts": {
+    "test": "node spallers.js"
+  },
+  "author": "volkan",
+  "license": "MIT",
+  "dependencies": {
+    "await": "^0.2.6",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "croxydb": "^0.0.7",
+    "dabi-images": "^2.7.5",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.0.0",
+    "node-superfetch": "^0.1.11",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "superagent": "^6.1.0",
+    "weather-js": "^2.0.0",
+    "wio.db": "^4.0.17",
+    "ytdl-core": "^4.5.0"
+  }
+}
