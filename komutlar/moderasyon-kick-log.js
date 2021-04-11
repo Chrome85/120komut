@@ -1,7 +1,6 @@
 const Discord = require('discord.js');
 const db = require('croxydb');
 const database = require('croxydb');
-const database = require('croxydb');
 
 exports.run = async(client, message, args) => {
   let yrol =  database.fetch(`yrol.${message.guild.id}`)
